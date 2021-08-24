@@ -1,0 +1,2 @@
+com/cardscannerio/BuildConfig.java
+ com.cardscannerio.BuildConfig
